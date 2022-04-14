@@ -1,6 +1,6 @@
 
 <p align="center">
-  <kbd><img src="https://github.com/josephcolemartin/Lamp-designer-FullControl-GCode-Designer-and-MATLAB-/Screen Shot 2022-04-14 at 3.45.59 PM.png" /></kbd>
+  <kbd><img src="https://github.com/josephcolemartin/Lamp-designer-FullControl-GCode-Designer-and-MATLAB-/lamp_design.png" /></kbd>
   
   <img src="https://github.com/AndyGlx/Images/blob/master/Logo%20NEW%20(white%20BG).gif" width="600">
 </p>
