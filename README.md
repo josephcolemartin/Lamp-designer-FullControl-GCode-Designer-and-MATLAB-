@@ -1,6 +1,6 @@
 
 <p align="center">
-  <kbd><img src="https://github.com/josephcolemartin/Images/lamp_design.png" /></kbd>
+  <img src="https://github.com/josephcolemartin/Images/lamp_design.png" />
   
   <img src="https://github.com/AndyGlx/Images/blob/master/Logo%20NEW%20(white%20BG).gif" width="600">
 </p>
