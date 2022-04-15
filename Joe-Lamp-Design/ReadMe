@@ -1,3 +1,5 @@
 This add-on gives a method for visualizing and easily creating a mathematical function that can be converted into gcode (using full control gcode) and 3d printed into a cool lamp
 
+NOTE: t_offset generation function in the matlab app IS NOT working right now, so to align the lamp holder to the creases will take some trial and error
+
 If you have any questions shoot me a question at jcm047@ucsd.edu
