@@ -2,6 +2,8 @@ This add-on gives a method for visualizing and easily creating a mathematical fu
 
 The recommended workflow is to 1) generate the function for the lampshade in the matlab app, 2) edit (or recreate) the lampshade with holder template in full control gcode 3) copy gcode text into text editor like sublime and save as .gcode 4) check the gcode in something like ideaMaker
 
-NOTE: t_offset generation is a trial and error method as well, g'd luck!
+NOTE: t_offset generation is a trial and error method
+NOTE 2: if you're using the excel template I included and are including a lamp holder make sure when you change the function in the x part of the line equation you remove 'Tval' from the matlab generated function since we are looking at the Tval=0 position of that function. The holder equation uses a different Tval 
+g'd luck!
 
 If you have any questions shoot me a question at jcm047@ucsd.edu
