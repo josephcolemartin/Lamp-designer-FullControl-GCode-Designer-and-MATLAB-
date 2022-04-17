@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/josephcolemartin/Images/blob/87fba6aa651847cab2bee37e52bab6160fdf2622/lamp_design.png" />
+  <img src="https://github.com/josephcolemartin/Lamp-designer-FullControl-GCode-Designer-and-MATLAB-/blob/94dda6832f8f5ecc342161ffcaa134cbae9bdcb5/Joe-Lamp-Design/Lamp_design4-17.png" />
   
   MATLAB App for more easily designing lampshade geometries and preparing functions for Full Control Gcode.
   
